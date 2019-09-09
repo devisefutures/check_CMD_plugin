@@ -4,12 +4,12 @@ A aplicação de linha de comando check_scmd.py permite verificar se o serviço 
 
 Tem como parâmetros:
 
-+ -u User - número de telemóvel do utilizador
-+ -a ApplicationId - ApplicationId fornecido pela AMA
-+ -w Warning - Warning threshold (tempo para o serviço responder) em segundos (3s por omissão)
-+ -c Critical - Critical threshold tempo para o serviço responder) em segundos (6s por omissão)
-+ -t Timeout - Timeout em segundos (25s por omissão)
-+ -prod - No caso de pretender comunicar com o serviço SCMD de produção, já que por omissão é feita a ligação ao serviço SCMD de pré-produção
++ _-u User_ - número de telemóvel do utilizador
++ _-a ApplicationId_ - ApplicationId fornecido pela AMA
++ _-w Warning_ - Warning threshold (tempo para o serviço responder) em segundos (3s por omissão)
++ _-c Critical_ - Critical threshold tempo para o serviço responder) em segundos (6s por omissão)
++ _-t Timeout_ - Timeout em segundos (25s por omissão)
++ _-prod_ - No caso de pretender comunicar com o serviço SCMD de produção, já que por omissão é feita a ligação ao serviço SCMD de pré-produção
 
 ## 1. Exemplo
 
